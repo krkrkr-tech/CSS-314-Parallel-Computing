@@ -1,4 +1,4 @@
 # CSS-314-Parallel-Computing
-ID: 230103270
-Lecture: 01-N
+ID: 230103270<br>
+Lecture: 01-N<br>
 Practice: 03-P
