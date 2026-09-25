@@ -1,0 +1,12 @@
+Python: 3.11.9
+OS: Windows-10-10.0.19045-SP0
+CPU count: 16
+
+
+Name                      : AMD Ryzen 7 7730U with Radeon Graphics         
+NumberOfCores             : 8
+NumberOfLogicalProcessors : 16
+
+
+
+
