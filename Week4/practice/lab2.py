@@ -1,13 +1,4 @@
-"""Lab 2: numerical integration, races, critical sections, and reductions.
 
-Run the complete lab with:
-    python task_practice.py --steps 100000000 --repeats 5
-
-The program writes lab2_results.csv and lab2_speedup.png. It uses native
-processes because CPython threads cannot execute CPU-bound Python bytecode in
-parallel. The shared-process variants model the OpenMP shared accumulator,
-while the reduction variant combines private process sums.
-"""
 
 from __future__ import annotations
 
